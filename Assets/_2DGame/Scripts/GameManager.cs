@@ -20,6 +20,8 @@ public class GameManager : MonoBehaviour
 
     void Awake()
     {
+        remainingTime = 60f;
+        state = State.Intro;
         playerController = m_playerController;
         recollectorSystem = playerController.GetComponent<RecollectorSystem>();
     }
