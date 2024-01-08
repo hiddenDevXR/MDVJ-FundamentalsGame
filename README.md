@@ -45,3 +45,18 @@ My aspiration is to continuously improve this project until it evolves into a co
 ![Screenshot 2023-12-17 142320](https://github.com/hiddenDevXR/MDVJ-FundamentalsGame/assets/86928162/f917b29b-0b0c-4f1f-9789-fd203cc61755)
 ![Screenshot 2024-01-08 175421](https://github.com/hiddenDevXR/MDVJ-FundamentalsGame/assets/86928162/5389f433-27c4-4eb3-9eb4-89544bd7a21d)
 
+## Credits
+
+3D Art
+Polygon SciFi City by Synty Studio
+
+Animation
+Platform animation package by Shinabro
+
+Audio
+Ultimate SFX Bundle by Sidearm Studio
+"I Give My Consent" Ghost In The Shell OST by Lorne Balfe
+
+Developed for the "Fundamentals of Game Development" course at Universidad de La Laguna
+
+Special Thanks to Professor Isabel Sanchez Barriel
