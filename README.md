@@ -8,3 +8,7 @@ Camera System: Employed to manage the player's view and enhance gameplay experie
 Object Pooling: Utilized for optimizing memory and enhancing performance.
 Animation Controllers: Integrated for character animations and in-game responsiveness.
 This project served as a hands-on exploration of diverse technical aspects crucial to 2D game development. The aim was to showcase a synthesis of these elements while creating an engaging game experience.
+
+Moreover, this game utilizes assets from the Synty Studio Cyberpunk package, originally designed for 3D environments. By adapting the 2D systems to function within a 3D space and utilizing an orthographic camera restricted to movement solely in the XY plane, the gameplay experience retains a 2D perspective within a 3D environment.
+
+This project aims to showcase the adaptation of 2D mechanics within a 3D setting, blurring the lines between the traditional distinctions of 2D and 3D gaming experiences.
