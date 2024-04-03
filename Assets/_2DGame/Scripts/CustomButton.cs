@@ -33,4 +33,9 @@ public class CustomButton : MonoBehaviour
     {
         SceneManager.LoadScene(index);
     }
+
+    public void QuitApp()
+    {
+        Application.Quit();
+    }
 }

@@ -1,9 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
-using UnityEditor.Experimental.GraphView;
 using UnityEngine;
-using static UnityEditor.Progress;
 
 public class PlayerController : MonoBehaviour
 {
@@ -65,6 +63,11 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.K))
         {
             SetAnimation(PlayerState.Attack);
+        }
+
+        if(Input.GetKeyDown(KeyCode.Q))
+        {
+            Application.Quit();
         }
     }
 
